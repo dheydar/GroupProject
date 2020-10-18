@@ -34,5 +34,6 @@ This dataset presents demographics based on ethnicity relating to COVID-19 in Ca
   
 **Scope that explains intended analysis and resulting visualizations for our project**
 
+Our intended analysis for this project is to analyze if there is any overlap between where COVID cases and crime are occuring in Los Angeles. For part of our analysis, we also seek to understand if COVID and crime intersect with the location of affordable housing units or other forms of public housing. Some of the possible visualizations that we may produce as a part of our project include charts and maps relating to where COVID cases are concentrated in Los Angeles, where crime is concentrated in Los Angeles, as well as where affordable housing is located in Los Angeles. A significant component to these maps and charts is that we intend to incorporate demographic data to understand how outcomes have differed by racial or ethnic group.  
 
 **Concluding paragraph of what insights we expect to gain from our research**
