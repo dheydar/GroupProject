@@ -24,13 +24,13 @@ This dataset includes cases of crime within Los Angeles for the year 2020. This 
   * Social Explorer
 
 * White vs. Non-White Homeowners (2018), 
-  *Social Explorer
+  * Social Explorer
 
 * COVID-19 Data from 2020 to Present, 
   * https://github.com/datadesk/california-coronavirus-data
 
 * Mapping Inequality/ Home Owners Loan Corporation (HOLC) LA Redlining Map (1939), 
-  *http://clsl.richmond.edu/
+  * http://clsl.richmond.edu/
 
   
 **Scope that explains intended analysis and resulting visualizations for our project**
